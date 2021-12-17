@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "kQfGsCaKgPfQ8gbFqrhSEHYIR0qKM6RmzAdMP3vfkq/WXUo4/2pKRkM7RZY7FWvaiIZeE5jx7ENe6y4Gu8FjBw==",
+  "dgSpecHash": "Dug1uOWirnRH2YFWLjGITxNdy4wIriqECI4ZyH7ibljZswCar7DgRW5doo3vhXezM5s3+0XI9DawqTP7J2F87Q==",
   "success": true,
   "projectFilePath": "D:\\Projects\\openCL\\OpenCL_Test.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\daab_\\.nuget\\packages\\amplifier.net\\1.0.8\\amplifier.net.1.0.8.nupkg.sha512",
+    "C:\\Users\\daab_\\.nuget\\packages\\humanizer.core\\2.8.11\\humanizer.core.2.8.11.nupkg.sha512",
+    "C:\\Users\\daab_\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\daab_\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\daab_\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\daab_\\.nuget\\packages\\system.reflection.metadata\\1.8.1\\system.reflection.metadata.1.8.1.nupkg.sha512",
+    "C:\\Users\\daab_\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -14,3 +14,8 @@ D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.dll
 D:\Projects\openCL\obj\Debug\net5.0\ref\OpenCL_Test.dll
 D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.pdb
 D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.genruntimeconfig.cache
+D:\Projects\openCL\bin\Debug\net5.0\Amplifier.dll
+D:\Projects\openCL\bin\Debug\net5.0\Humanizer.dll
+D:\Projects\openCL\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\openCL\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.csproj.CopyComplete
