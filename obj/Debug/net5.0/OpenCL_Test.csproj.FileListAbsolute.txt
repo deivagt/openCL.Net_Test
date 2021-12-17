@@ -1,0 +1,16 @@
+D:\Projects\openCL\bin\Debug\net5.0\OpenCL_Test.exe
+D:\Projects\openCL\bin\Debug\net5.0\OpenCL_Test.deps.json
+D:\Projects\openCL\bin\Debug\net5.0\OpenCL_Test.runtimeconfig.json
+D:\Projects\openCL\bin\Debug\net5.0\OpenCL_Test.runtimeconfig.dev.json
+D:\Projects\openCL\bin\Debug\net5.0\OpenCL_Test.dll
+D:\Projects\openCL\bin\Debug\net5.0\ref\OpenCL_Test.dll
+D:\Projects\openCL\bin\Debug\net5.0\OpenCL_Test.pdb
+D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.csproj.AssemblyReference.cache
+D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.AssemblyInfoInputs.cache
+D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.AssemblyInfo.cs
+D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.csproj.CoreCompileInputs.cache
+D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.dll
+D:\Projects\openCL\obj\Debug\net5.0\ref\OpenCL_Test.dll
+D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.pdb
+D:\Projects\openCL\obj\Debug\net5.0\OpenCL_Test.genruntimeconfig.cache
